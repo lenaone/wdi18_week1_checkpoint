@@ -5,6 +5,6 @@
 
 2. ~/buffy/~scoobies/ touch buffy.txt giles.txt angel.txt 
 
-3. cp angel.txt vamps
+3. cp angel.txt cd../vamps
 
 4. rm vamps
