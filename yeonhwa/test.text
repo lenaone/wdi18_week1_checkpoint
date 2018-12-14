@@ -1,0 +1,10 @@
+//Bash (Terminal)
+
+1. ~/buffy/mkdir scoobies
+~/buffy/mkdir vamp
+
+2. ~/buffy/~scoobies/ touch buffy.txt giles.txt angel.txt 
+
+3. cp angel.txt vamps
+
+4. rm vamps
